@@ -3,11 +3,6 @@
 
 
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackedhorse" alt="blackedhorse" /></a> </p>
-
-
 ![software developer](https://user-images.githubusercontent.com/103793555/222241768-7f9c47be-67f0-46ff-b963-c749995c3dd7.gif)
 
 - 👨‍💻 All of my projects are available at https://github.com/AdhamAlgohary?tab=repositories
