@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adham Algohary</h1>
 <h3 align="center">Sofrware Developer </h3>
 <h3 align="center">I'm Adham, a passionate Frontend Developer specializing in Flutter. Welcome to my GitHub profile! 🚀</h3>
+![software developer](https://user-images.githubusercontent.com/103793555/222241768-7f9c47be-67f0-46ff-b963-c749995c3dd7.gif)
+
 
 ### Education 
 - Bachelor of Computer Science - Faculty of Computers and Information, Tanta University (2023)
@@ -25,7 +27,6 @@
 
 
 
-![software developer](https://user-images.githubusercontent.com/103793555/222241768-7f9c47be-67f0-46ff-b963-c749995c3dd7.gif)
 
 - 👨‍💻 All of my projects are available at https://github.com/AdhamAlgohary?tab=repositories
 
