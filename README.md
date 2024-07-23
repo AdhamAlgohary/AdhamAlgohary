@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adham Algohary</h1>
 <h3 align="center">Flutter Developer </h3>
 
+<h3 align="center"> Now , I enrolled in Digital Egypt Pioneers Initiative (DEPI) and working on amazon_clone_app</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/103793555/222241768-7f9c47be-67f0-46ff-b963-c749995c3dd7.gif" alt="software developer" />
